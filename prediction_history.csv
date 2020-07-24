@@ -1,0 +1,15 @@
+modelo,train_score,test_score,date
+RandomForestClassifier(max_depth=50, max_features='sqrt', min_samples_leaf=2,
+                       min_samples_split=10, n_estimators=200),0.7275114904793172,0.9111658456486043,2020-07-23 21:48:10.869445
+LGBMClassifier(n_estimators=59),0.7406434668417596,0.8262725779967159,2020-07-23 21:49:00.474183
+RandomForestClassifier(max_depth=10, max_features='sqrt', min_samples_leaf=2,
+                       min_samples_split=5, n_estimators=200),0.7097833223900197,0.7952380952380952,2020-07-23 22:04:15.650388
+LGBMClassifier(n_estimators=57),0.7117531188443861,0.7975369458128079,2020-07-23 22:04:17.363617
+RandomForestClassifier(max_depth=10, max_features='sqrt', min_samples_leaf=2,
+                       min_samples_split=5, n_estimators=200),0.7091267235718975,0.7957307060755336,2020-07-23 22:10:28.738689
+LGBMClassifier(n_estimators=59),0.7406434668417596,0.8262725779967159,2020-07-23 22:10:30.681568
+RandomForestClassifier(max_depth=10, max_features='sqrt', min_samples_leaf=2,
+                       min_samples_split=5, n_estimators=200),0.706500328299409,0.7932676518883416,2020-07-23 22:29:22.990729
+LGBMClassifier(n_estimators=59),0.7406434668417596,0.8262725779967159,2020-07-23 22:29:37.684362
+LGBMClassifier(n_estimators=57),0.7367038739330269,0.8231527093596059,2020-07-23 22:30:52.393131
+LGBMClassifier(n_estimators=57),0.7117531188443861,0.7975369458128079,2020-07-23 22:31:40.040358
