@@ -12,4 +12,6 @@ Autores:
 - Leloutre, Daniela (padrón: 96783)
 - Cai, Ana Maria (padrón: 102150)
 
-Informe: https://www.overleaf.com/read/tvzjfxtqtqqn
+Informe: 
+Para editar: https://www.overleaf.com/5739662662nkpmknshprkr
+Para ver: https://www.overleaf.com/read/mfvcrrwmmtrh
