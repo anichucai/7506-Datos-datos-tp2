@@ -15,3 +15,18 @@ Autores:
 Informe: 
 Para editar: https://www.overleaf.com/5739662662nkpmknshprkr
 Para ver: https://www.overleaf.com/read/mfvcrrwmmtrh
+
+Colab - Entrenamiento RoBERTa:
+https://colab.research.google.com/drive/1Hr1FO_cXRDgJi4T0QjjthTcVmRa3MVY5?usp=sharing
+
+CÓMO LEER NOTEBOOKS
+FEATURE GENERATION:
+  Features
+FEATURE SELECTION:
+  Feature selection - decision trees
+  Feature selection - lightgbm
+  Feature selection - random forest
+ALGORITMOS:
+  Algoritmos_w_Pipelines
+  https://colab.research.google.com/drive/1Hr1FO_cXRDgJi4T0QjjthTcVmRa3MVY5?usp=sharing (Entrenamiento Roberta)
+  RobertaSubmit (Predicción Roberta)
