@@ -19,6 +19,9 @@ Para ver: https://www.overleaf.com/read/mfvcrrwmmtrh
 Colab - Entrenamiento RoBERTa:
 https://colab.research.google.com/drive/1Hr1FO_cXRDgJi4T0QjjthTcVmRa3MVY5?usp=sharing
 
+Modelo entrenado RoBERTa:
+https://drive.google.com/file/d/1mSkecdje5RCH5wn9Bwx1WlTtiizgn3Qi/view?usp=sharing
+
 CÓMO LEER NOTEBOOKS
 
 FEATURE GENERATION:
